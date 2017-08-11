@@ -6,5 +6,6 @@ int main(){
 	printf("nesto");
 	printf("Guess who is back");
 	printf("This is getting ridiculous");
+	print;
 	return 0;
 }
